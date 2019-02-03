@@ -5,7 +5,7 @@ def fizzbuzz(x)
     "FizzBuzz"
   elsif x%3 == 0
   "Fizz"
-elseif x%5 == 0
+elsif x%5 == 0
   "Buzz"
 end
 end
