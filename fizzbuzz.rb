@@ -2,10 +2,10 @@
 # See README.md for instructions on how to do this
 def fizzbuzz(x)
   if x%3 == 0 && x%5 == 0
-    "fizzbuzz"
+    "Fizzbuzz"
   elsif x%3 == 0
-  "fizz"
+  "Fizz"
 else
-  "buzz"
+  "Buzz"
 end
 end
